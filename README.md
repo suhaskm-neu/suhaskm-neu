@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm currently pursuing my graduate studies in Information 
  
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [[Let's Connet!](https://www.linkedin.com/in/suhaskm/)]
-- **Email:** `your-email@example.com`
+- **LinkedIn:** [[www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)]
+- **Email:** `suhaskm23@gmail.com`
 
 ---
 
