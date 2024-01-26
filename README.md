@@ -2,7 +2,7 @@
 
 ## 🎓 Graduate Student in Information Systems
 
-Welcome to my GitHub! I'm currently pursuing my graduate studies in Information Systems, specializing in Data Science, Software Development, Object-Oriented Design, Cloud Computing, Core Networking Concepts, Data Structures & Algorithms, and Quantum Computing.
+Welcome to my GitHub! I'm currently pursuing my graduate studies in Information Systems, specializing in Data Science, Software Development, Object-Oriented Design, Cloud Computing, Core Networking Concepts and Data Structures & Algorithms.
 
 ## 🌐 About Me
 
@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm currently pursuing my graduate studies in Information 
 ## 🛠️ Skills
 
 - **Languages:** Python, Java, C, C++, SQL
-- **Frameworks & Tools:** TensorFlow, PyTorch, Docker
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Frameworks & Tools:**  Docker, TensorFlow, PyTorch, Keras, scikit-learn, Matplotlib
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite
 - **Cloud Platforms:** AWS, Azure
 
 ## 📚 Projects
@@ -29,17 +29,9 @@ Welcome to my GitHub! I'm currently pursuing my graduate studies in Information 
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/suhaskm/)](#)
+- **LinkedIn:** [[Let's Connet!](https://www.linkedin.com/in/suhaskm/)]
 - **Email:** `your-email@example.com`
 
 ---
 
-> "It's the most productive day of the year - Let's make the most of it! Think step by step, breathe deeply, and dive into the world of innovation."
-
 ### 💡 Always learning, always growing!
-
-
-<!---
-suhaskm-neu/suhaskm-neu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
