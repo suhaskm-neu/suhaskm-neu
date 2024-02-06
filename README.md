@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm currently pursuing my graduate studies in Information 
 
 - **Languages:** Python, Java, C, C++, SQL
 - **Frameworks & Tools:**  Docker, TensorFlow, PyTorch, Keras, scikit-learn, Matplotlib
-- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite
-- **Cloud Platforms:** AWS, Azure
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL
+- **Cloud Platforms:** AWS, Serverless Architecture, Azure
 
 ## 📚 Projects
 
@@ -32,7 +32,8 @@ Welcome to my GitHub! I'm currently pursuing my graduate studies in Information 
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [[www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)]
-- **Email:** suhaskm23@gmail.com
+- **Email 1:** suhaskm23@gmail.com
+- **Email 2:** km.s@northeastern.edu
 
 ---
 
