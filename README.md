@@ -23,9 +23,7 @@ Welcome to my GitHub! I'm an Information Systems Grad, specializing in Data Scie
 
 (Here, list some of your key projects. Provide a brief description and link to the repositories. For example:)
 - **Credit Risk Classification:** Developed a PyTorch neural network to classify if loan request would be defaulted or not. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
-- **Smart Waste Solution - Research:** Developed an ML-driven waste segregation system integrating IoT and Cloud, utilizing Deep Learning for 83% accurate
-waste classification. Published project based paper on real-time monitoring, automated emails via ThingSpeak and send
-alerts to municipalities based on. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
+- **Smart Waste Solution - Research:** Research work on finding best image classifier models; CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
 - **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
 - **Handling Imbalanced Datasets:** PyTorch Credit Risk Classifier modelling, Solved imbalanced dataset issue. [View Repository](#)
