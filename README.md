@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm an Information Systems Grad, specializing in Data Scie
 
 (Here, list some of your key projects. Provide a brief description and link to the repositories. For example:)
 
-- **Data Analysis Project:** An extensive analysis, feature engineering and modelling of Hotel Bookings data. [View Repository](#https://github.com/suhaskm-neu/Hotel-Hospitality-Analysis-and-Modelling)
+- **Data Analysis Project:** An extensive analysis, feature engineering and modelling of Hotel Bookings data. [View Repository](https://github.com/suhaskm-neu/Hotel-Hospitality-Analysis-and-Modelling)
 - **Software Development Project:** An end to end Java-MVC application for Childrens School. [View Repository](#)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
 - **Handling Imbalanced Datasets:** PyTorch Credit Risk Classifier modelling, Solved imbalanced dataset issue. [View Repository](#)
