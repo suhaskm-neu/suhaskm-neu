@@ -23,7 +23,6 @@ My projectss/work spans to Machine Learing, Deep Learning, Data Science, Softwar
 
 ## 📚 Projects
 
-(Here, list some of your key projects. Provide a brief description and link to the repositories. For example:)
 - **Credit Risk Classification:** Developed a PyTorch neural network to classify if loan request would be defaulted or not. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
 - **Smart Waste Solution - Research:** Research work on finding best image classifier models; CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
 - **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
