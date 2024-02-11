@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-My work revolves around Machine Learing, Deep Learning, Data Science, Software Development, Object-Oriented Design. I'm also working on my Cloud Computing, Core Networking and Data Structures & Algorithms skills.
+My work revolves around Machine Learing, Deep Learning, Data Science, Software Development and Object-Oriented Design. I'm also working on my Cloud Computing, Networking and Data Structures & Algorithms skills.
 
 ## 🌐 About Me
 
