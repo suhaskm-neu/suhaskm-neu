@@ -1,8 +1,10 @@
-# Hello, I'm Suhas K M 👋
+# Hello, I'm Suhas 👋
 
 ## 🎓 Graduate Student in Information Systems @ Northeastern University
 
-Welcome to my GitHub! My work revolves aeround Data Science, Software Development, Object-Oriented Design, Cloud Computing, Core Networking Concepts and Data Structures & Algorithms.
+Welcome to my GitHub! 
+
+My work revolves around Machine Learing, Deep Learning, Data Science, Software Development, Object-Oriented Design. I'm also working on my Cloud Computing, Core Networking and Data Structures & Algorithms skills.
 
 ## 🌐 About Me
 
