@@ -23,11 +23,10 @@ My projects/work spans to Machine Learing, Deep Learning, Data Science and Softw
 
 ## 📚 Projects
 
-- **Credit Risk Classification:** Developed a PyTorch neural network to classify if loan request would be defaulted or not. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
+- **Credit Risk Classification:** Developed a PyTorch neural network to classify if loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
 - **Smart Waste Solution - Research:** Research work on finding best image classifier models; CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
 - **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
-- **Handling Imbalanced Datasets:** PyTorch Credit Risk Classifier modelling, Solved imbalanced dataset issue. [View Repository](#)
 
  
 ## 📫 How to Reach Me
