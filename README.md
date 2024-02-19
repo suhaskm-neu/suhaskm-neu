@@ -1,6 +1,6 @@
 # Hello, I'm Suhas 👋
 
-## 🎓 Graduate Student in Information Systems at Northeastern University
+## 🎓 Graduate at Northeastern University, Information Systems
 
 Welcome to my GitHub! 
 
