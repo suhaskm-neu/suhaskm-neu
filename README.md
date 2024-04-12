@@ -28,7 +28,7 @@ My projects/work spans to Machine Learing, Deep Learning, Data Science and Softw
 - **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
 - **Transfer Learning on CNNs** Visualising Feature Maps in CNN and performed extensive comparision of various Convulated architectures. [View Repository](https://github.com/suhaskm-neu/Transfer-Learning-CNN)
-- **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository]([https://github.com/suhaskm-neu/Children-Daycare](https://github.com/suhaskm-neu/Nutrition-Management))
+- **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository](https://github.com/suhaskm-neu/Nutrition-Management)
 ## 📫 Reach out to me
 
 - **LinkedIn:** [www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)
