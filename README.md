@@ -27,9 +27,9 @@ My projects/work spans to Machine Learing, Deep Learning, Data Science and Softw
 - **Smart Waste Bin - Research:** Proposed a prototype model-solution to fix Waste Management with Computer Vision, Deep Learning, IoT & Cloud Services. CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
 - **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
-
- 
-## 📫 How to Reach Me
+- **Transfer Learning on CNNs** Visualising Feature Maps in CNN and performed extensive comparision of various Convulated architectures. [View Repository]([https://github.com/suhaskm-neu/Children-Daycare](https://github.com/suhaskm-neu/Transfer-Learning-CNN))
+- **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository]([https://github.com/suhaskm-neu/Children-Daycare](https://github.com/suhaskm-neu/Nutrition-Management))
+## 📫 Reach out to me
 
 - **LinkedIn:** [www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)
 - **Email 1:** suhaskm23@gmail.com
