@@ -18,8 +18,8 @@ My projects/work spans to Machine Learing, Deep Learning, Data Science and Softw
 
 - **Languages:** Python, Java, C, C++, SQL
 - **Frameworks & Tools:**  Docker, TensorFlow, PyTorch, Keras, scikit-learn, Matplotlib, Seaborn
-- **Databases:** SQL & NoSQL - MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL
-- **Cloud Platforms:** AWS, Serverless Architecture, Azure
+- **Databases:** SQL & NoSQL - MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL Server
+- **Cloud Platforms:** AWS Services, Serverless Architecture, Azure, GCP
 
 ## 📚 Projects
 
