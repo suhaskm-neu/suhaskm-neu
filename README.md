@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-My projects/work spans to Machine Learing, Deep Learning, Data Science and Software Development adhering to Object-Oriented Design. I'm also working on my Cloud Computing, Networking, Data Structures & Algorithms and Containerization skills. I'm looking for Internship/Co-op oppurtunities.
+My projects/work spans across Machine learning, Deep Learning, Data Science, and Software Development adhering to Object-Oriented Design. I'm also working on my Cloud Computing, Networking, Data Structures & Algorithms and Containerization skills. I'm looking for Internship/Co-op opportunities.
 
 ## 🌐 About Me
 
@@ -23,11 +23,11 @@ My projects/work spans to Machine Learing, Deep Learning, Data Science and Softw
 
 ## 📚 Projects
 
-- **Credit Risk Classification:** Developed a PyTorch neural network to classify if loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
+- **Credit Risk Classification:** Developed a PyTorch neural network to classify if a loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
 - **Smart Waste Bin - Research:** Proposed a prototype model-solution to fix Waste Management with Computer Vision, Deep Learning, IoT & Cloud Services. CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
-- **Software Development Project:** An end to end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
+- **Software Development Project:** An end-to-end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
 - **Cloud Computing Project:** A cloud solution implemented on AWS for efficient data processing. [View Repository](#)
-- **Transfer Learning on CNNs** Visualising Feature Maps in CNN and performed extensive comparision of various Convulated architectures. [View Repository](https://github.com/suhaskm-neu/Transfer-Learning-CNN)
+- **Transfer Learning on CNNs** Visualising Feature Maps in CNN and performing an extensive comparison of various Convulated architectures. [View Repository](https://github.com/suhaskm-neu/Transfer-Learning-CNN)
 - **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository](https://github.com/suhaskm-neu/Nutrition-Management)
 ## 📫 Reach out to me
 
