@@ -16,10 +16,30 @@ My projects/work spans across Machine learning, Deep Learning, Data Science, and
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, C, C++, SQL
-- **Frameworks & Tools:**  Docker, TensorFlow, PyTorch, Keras, scikit-learn, Matplotlib, Seaborn
-- **Databases:** SQL & NoSQL - MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL Server
-- **Cloud Platforms:** AWS Services, Serverless Architecture, Azure, GCP
+### Programming Languages
+- **General Purpose:** Java, Python, C++
+- **Scripting & Markup:** Bash, Shell, JSON, XML
+- **Statistical & Data Analysis:** R, Python Libraries (Numpy, Pandas, Matplotlib, seaborn)
+
+### Frameworks & Libraries
+- **Web Development:** Django, Flask, FastAPI, Spring Boot
+- **Data Science & Machine Learning:** TensorFlow, PyTorch, Keras, scikit-learn, GENSIM
+- **Natural Language Processing:** NLTK, GENSIM
+
+### Cloud Computing & DevOps
+- **Cloud Services:** AWS (EC2, S3, RDS, Serverless), Azure, Google Cloud Platform
+- **DevOps Tools:** Docker, Jenkins, Kubernetes, CI/CD pipelines
+
+### Databases
+- **Relational Databases:** PostgreSQL, MySQL, MSSQL, Oracle
+- **NoSQL Databases:** MongoDB, NoSQL
+
+### Tools & Platforms
+- **Project Management & Collaboration:** Jira, Confluence, Agile, Scrum
+- **Version Control & CI/CD:** Git, GitHub Actions
+- **Data Visualization & BI:** Tableau, Microsoft Excel
+- **Miscellaneous:** SSL, TLS, OAuth, Apache Servers, PowerShell
+
 
 ## 📚 Projects
 
