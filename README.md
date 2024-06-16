@@ -43,7 +43,6 @@ My projects/work spans Machine learning, Deep Learning, Data Science, and Softwa
 - **Data Visualization & BI:** Tableau, Microsoft Excel
 - **Miscellaneous:** SSL, TLS, OAuth, Apache Servers, PowerShell
 
-
 ## 📚 Projects
 
 - **Credit Risk Classification:** Developed a PyTorch neural network to classify if a loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
@@ -57,6 +56,18 @@ My projects/work spans Machine learning, Deep Learning, Data Science, and Softwa
 - **Email 1:** suhaskm23@gmail.com
 - **Email 2:** km.s@northeastern.edu
 
----
+## Relevent Course work
+
+- INFO 6105 - **Data Science Engineering Methods and Tools**
+
+- INFO 5001 - **Application Engineering Development**
+
+- ENCP 6000 - **Engineering Cooperative Education**
+
+- INFO 6210 - **Data Management and Database Design**
+
+- INFO 7390 - **Advances in Data Science**
+
+---------------
 
 # 💡 Always learning, always growing!
