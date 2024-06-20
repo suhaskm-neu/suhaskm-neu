@@ -58,13 +58,11 @@ My projects/work spans Machine learning, Deep Learning, Data Science, and Softwa
 - **Email 1:** suhaskm23@gmail.com
 - **Email 2:** km.s@northeastern.edu
 
-## Relevent Course work
+## Relevant Course work
 
 - INFO 6105 - **Data Science Engineering Methods and Tools**
 
 - INFO 5001 - **Application Engineering Development**
-
-- ENCP 6000 - **Engineering Cooperative Education**
 
 - INFO 6210 - **Data Management and Database Design**
 
