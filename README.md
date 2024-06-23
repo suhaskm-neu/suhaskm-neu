@@ -1,7 +1,5 @@
 # Hi, I'm Suhas 👋
-
 ---------------
-
 ## 🎓 Graduate student at Northeastern University, Information Systems
 
 Welcome to my GitHub!
