@@ -1,4 +1,4 @@
-# Hi, I'm Suhas 👋
+# Hello, I'm Suhas 👋
 ---------------
 ## 🎓 Graduate student at Northeastern University, Information Systems
 
