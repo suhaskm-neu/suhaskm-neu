@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-My projects/work spans Machine learning, Deep Learning, Data Science, and Software Development adhering to Object-Oriented Design. I'm also working on my Cloud Computing, Networking, Data Structures & Algorithms and Containerization skills. I'm looking for Internship/Co-op opportunities.
+My work spans across Machine learning, Deep Learning, Data Science, and Software Development adhering to Object-Oriented Design. I'm also working on my Cloud Computing, Networking, Data Structures & Algorithms and Containerization skills. I'm looking for Internship/Co-op opportunities.
 
 ## 🌐 About Me
 
