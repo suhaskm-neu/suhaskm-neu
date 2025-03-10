@@ -1,3 +1,91 @@
+# Landing-Page
+
+<!-- Animated Header Banner -->
+[![Animated Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)](https://github.com/suhaskm)
+
+# Hey there, I'm Suhas K M! 👋
+
+Welcome to my creative GitHub space. I'm a graduate student with a passion for Data Science, AI/ML, Deep Learning, Software Development, Object-Oriented Design, Cloud Computing, Core Networking, and DSA.
+
+---
+
+## About Me
+
+I'm pursuing Information Systems, merging academic learning with hands-on tech experiences. I thrive on solving challenges with innovative solutions and continuously evolving my skill set.
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## Skills & Tech Stack
+
+### Programming & Software Development
+- **Languages:** 
+  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks & Tools:** React, Node.js, Flask, Django, Git, Linux
+
+### Data Science & Machine Learning
+- **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+- **Visualization:** Matplotlib, Plotly, Seaborn
+- **Interactive Notebook:** Jupyter Notebook
+
+### Cloud & DevOps
+- **Platforms:** AWS, GCP, Azure
+- **Containerization & CI/CD:** Docker, GitHub Actions, Jenkins
+
+### Networking & More
+- **Core Networking:** TCP/IP, Routing & Switching
+- **APIs & Integration:** RESTful services, GraphQL
+
+---
+
+## Projects Spotlight
+
+- ### [Smart Data Analyzer](https://github.com/suhaskm/smart-data-analyzer)
+  ![Smart Data Analyzer](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)  
+  A tool leveraging machine learning to extract insights from complex datasets.
+
+- ### [Cloud Cost Optimizer](https://github.com/suhaskm/cloud-cost-optimizer)
+  ![Cloud Optimizer](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
+  Analyze and optimize your cloud resource usage with smart cost tracking.
+
+- ### [Real-Time Chat App](https://github.com/suhaskm/real-time-chat)
+  ![Chat App](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
+  A dynamic, web-based chat application built with Node.js and WebSockets.
+
+Explore more of my work in my [repositories](https://github.com/suhaskm).
+
+---
+
+## GitHub Stats
+
+<!-- Dynamic GitHub stats and streak stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## Let's Connect
+
+I’m always excited to collaborate or discuss innovative ideas.
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
+<!-- Footer Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" alt="Let's Code" />
+</p>
+
+
+
 # Hello, I'm Suhas 👋
 ---------------
 ## 🎓 Graduate student at Northeastern University, Information Systems
