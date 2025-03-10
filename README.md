@@ -38,14 +38,14 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 <h1>Technical Skills</h1>
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <!-- Row 1: Programming & Software | Frameworks & Libraries -->
   <tr>
     <th align="center" style="width: 50%; min-width: 300px;">Programming & Software</th>
     <th align="center" style="width: 50%; min-width: 300px;">Frameworks & Libraries</th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Languages</strong><br><br>
       <!-- Badges for languages -->
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -66,7 +66,7 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
         <li>Mathematics & Statistics (Linear Algebra, Probability, etc.)</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Web Development</strong><br><br>
       <!-- Badges for web frameworks -->
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
@@ -91,11 +91,11 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
   <!-- Row 2: Data Science & ML | Cloud & DevOps -->
   <tr>
-    <th align="center">Data Science & ML</th>
-    <th align="center">Cloud & DevOps</th>
+    <th align="center" style="width: 50%; min-width: 300px;">Data Science & ML</th>
+    <th align="center" style="width: 50%; min-width: 300px;">Cloud & DevOps</th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Libraries</strong><br><br>
       <!-- ML badges -->
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -120,7 +120,7 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
         <li>Data Lakes, ETL & Streaming</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Cloud Services</strong><br><br>
       <!-- Cloud badges -->
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
@@ -147,11 +147,11 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
   <!-- Row 3: Databases | Tools & Visualization -->
   <tr>
-    <th align="center">Databases</th>
-    <th align="center">Tools & Visualization</th>
+    <th align="center" style="width: 50%; min-width: 300px;">Databases</th>
+    <th align="center" style="width: 50%; min-width: 300px;">Tools & Visualization</th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Relational</strong><br><br>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -166,7 +166,7 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
       <br><br>
       <strong>SQL Concepts:</strong> TSQL, PL/SQL
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <strong>Version Control & PM</strong><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -187,11 +187,11 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
   <!-- Row 4: Additional Skills -->
   <tr>
-    <th align="center">Additional Skills</th>
-    <th></th>
+    <th align="center" style="width: 50%; min-width: 300px;">Additional Skills</th>
+    <th align="center" style="width: 50%; min-width: 300px;"></th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" style="width: 50%; min-width: 300px;">
       <ul>
         <li>System Design & Architecture</li>
         <li>Root Cause Analysis</li>
@@ -201,10 +201,9 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
         <li>Geopolitics & Economics</li>
       </ul>
     </td>
-    <td></td>
+    <td valign="top" style="width: 50%; min-width: 300px;"></td>
   </tr>
 </table>
----
 
 ## 📚 Projects
 
