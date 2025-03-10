@@ -16,7 +16,15 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 - 📚 **Global Perspective:** Exploring geopolitics & economics to broaden tech impact.
 - 🤝 **Collaboration:** Engaging in projects that push tech limits & yield societal benefits.
 
-# Technical Skills
+## GitHub Stats
+
+<!-- Dynamic GitHub stats and streak stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
+</div>
+---
 
 <h1>Technical Skills</h1>
 
@@ -188,17 +196,6 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 </table>
 ---
 
-## GitHub Stats
-
-<!-- Dynamic GitHub stats and streak stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📚 Projects
 
 - **Credit Risk Classification:** Developed a PyTorch neural network to classify if a loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
@@ -207,10 +204,6 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 - **Transfer Learning on CNNs** Visualising Feature Maps in CNN and extensively comparing various Convulated architectures. [View Repository](https://github.com/suhaskm-neu/Transfer-Learning-CNN)
 - **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository](https://github.com/suhaskm-neu/Nutrition-Management)
 ## 📫 Reach out to me
-
-- **LinkedIn:** [www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)
-- **Email 1:** suhaskm23@gmail.com
-- **Email 2:** km.s@northeastern.edu
 
 ## Relevant Course work
 
@@ -228,15 +221,8 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 I’m always excited to collaborate or discuss innovative ideas.
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** [www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)
+- **Email 1:** suhaskm23@gmail.com
+- **Email 2:** km.s@northeastern.edu
 
 # 💡 Always learning, always growing!
-
-
-<!-- Footer Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" alt="Let's Code" />
-</p>
-
