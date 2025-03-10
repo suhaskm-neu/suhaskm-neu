@@ -16,13 +16,25 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 ## GitHub Stats
 
-<!-- Dynamic GitHub stats and streak stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Create a table for side-by-side stats cards -->
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- GitHub Streak Stats Card -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
+  <!-- Top Languages Card (Optional) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaskm&layout=compact&theme=radical" alt="Top Languages" />
 </div>
----
+
 
 <h1>Technical Skills</h1>
 
