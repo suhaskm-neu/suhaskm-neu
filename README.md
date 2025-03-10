@@ -18,6 +18,31 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 # Technical Skills
 
+# Technical Skills
+
+<!-- You can add an animated header GIF if you'd like, for example:
+![Header GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+-->
+
+| **Programming & Scripting** | **Data Science & ML** |
+|---|---|
+| - **Languages:** Python, Java, C, C++, JS, TS, R, Go, Bash <br> - **OOP, Data Structures** <br> - **Unix/Linux** <br> - **Shell Scripting** | - **Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn <br> - **NLP:** NLTK, spaCy, GENSIM <br> - **LLMs & Transformers** (BERT, GPT) <br> - **Reinforcement Learning** <br> - **Data Pipelines & MLOps** |
+
+| **Frameworks & Libraries** | **Cloud & DevOps** |
+|---|---|
+| - **Web Dev:** Spring Boot, React, Django, Flask, FastAPI <br> - **MVC & Microservices** <br> - **RESTful APIs** <br> - **Hibernate, Maven** <br> - **Design Patterns** | - **AWS** (EC2, S3, Lambda, IAM) <br> - **Azure, GCP** <br> - **Docker, Kubernetes** <br> - **Jenkins, GitHub Actions** <br> - **CI/CD Pipelines, Terraform** |
+
+| **Databases** | **Tools & Visualization** |
+|---|---|
+| - **Relational:** PostgreSQL, MySQL, MSSQL, Oracle <br> - **NoSQL:** MongoDB, Redis, Cassandra <br> - **Search:** Elasticsearch <br> - **Data Warehousing** | - **Version Control:** Git <br> - **PM & Collaboration:** Jira, Confluence <br> - **BI & Reporting:** Tableau, Power BI <br> - **Data Viz:** Matplotlib, Seaborn <br> - **Apache Servers, SSL/TLS, OAuth** |
+
+| **Additional Skills & Soft Skills** |  |
+|---|---|
+| - **SDLC, Agile/Scrum** <br> - **System Design & Architecture** <br> - **Critical Thinking & Problem-Solving** <br> - **Communication & Presentation** <br> - **Geopolitics & Economics** |  |
+
+---
+
+
 ## 1. Programming & Software Development
 
 ### Languages
