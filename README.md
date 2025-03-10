@@ -44,134 +44,22 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 # Technical Skills
 
-<table>
-  <tr>
-    <th style="text-align: left; vertical-align: top;">Programming &amp; Software</th>
-    <th style="text-align: left; vertical-align: top;">Frameworks &amp; Libraries</th>
-  </tr>
-  <tr>
-    <td>
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <strong>Languages:</strong><br>
-          ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-          ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-          ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-          ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-          ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-          ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-          ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-          ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-          ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-        </li>
-        <li><strong>Concepts:</strong> OOP, Data Structures, Unix/Linux</li>
-        <li><strong>Math &amp; Stats:</strong> Linear Algebra, Probability, Stats, Optimization</li>
-      </ul>
-    </td>
-    <td>
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <strong>Web Dev:</strong><br>
-          ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-          ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-          ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-          ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-          ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-        </li>
-        <li>
-          <strong>Data/ML:</strong><br>
-          ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-          ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-          ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-          ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-        </li>
-        <li>
-          <strong>NLP:</strong><br>
-          ![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square)
-          ![spaCy](https://img.shields.io/badge/spaCy-9CF?style=flat-square)
-          ![GENSIM](https://img.shields.io/badge/GENSIM-2BAF2B?style=flat-square)
-        </li>
-        <li>
-          <strong>Big Data:</strong><br>
-          ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-          ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-          ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square)
-          ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white)
-          ![Grafana](https://img.shields.io/badge/Grafana-FE5A17?style=flat-square&logo=grafana&logoColor=white)
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align: left; vertical-align: top;">Cloud &amp; DevOps</th>
-    <th style="text-align: left; vertical-align: top;">Databases &amp; Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <strong>Cloud:</strong><br>
-          ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-          ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-          ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-          ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=flat-square)
-        </li>
-        <li>
-          <strong>DevOps:</strong><br>
-          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-          ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-          ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-          ![GH Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-          ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-        </li>
-      </ul>
-    </td>
-    <td>
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <strong>Relational DBs:</strong><br>
-          ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-          ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-          ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-          ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-        </li>
-        <li>
-          <strong>NoSQL:</strong><br>
-          ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-          ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-        </li>
-        <li>
-          <strong>Tools:</strong><br>
-          ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-          ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-          ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-          ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=atlassian&logoColor=white)
-          ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-          ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2" style="text-align: left; vertical-align: top;">Data Viz &amp; Soft Skills</th>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <strong>Data Viz:</strong><br>
-          ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-          ![Power BI](https://img.shields.io/badge/Power%20BI-01B0F1?style=flat-square&logo=power-bi&logoColor=white)
-          ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F61?style=flat-square&logo=matplotlib&logoColor=white)
-          ![Seaborn](https://img.shields.io/badge/Seaborn-4DB33D?style=flat-square&logo=seaborn&logoColor=white)
-        </li>
-        <li>
-          <strong>Soft Skills:</strong> Agile, System Design, Communication, Critical Thinking, Geopolitics &amp; Economics
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| **Programming & Software**                                                                                                                     | **Frameworks & Libraries**                                                                                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages** <br><br> ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br><br> **Concepts:** OOP, Data Structures, Unix/Linux, etc.                                                                                   | **Web Dev** <br><br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) <br><br> **APIs:** RESTful, Microservices, GraphQL                                                                                          |
+
+| **Data Science & ML**                                                                                                                                                      | **Cloud & DevOps**                                                                                                                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Libraries** <br><br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) <br> ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> **NLP:** NLTK, spaCy, Transformers (GPT, BERT) <br> **Big Data:** Spark, Kafka, Cassandra | **Services** <br><br> ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) <br><br> **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform <br> **CI/CD:** Agile, Scrum, Code Reviews, etc. |
+
+| **Databases**                                                                                                                                                                                                      | **Tools & Visualization**                                                                                                                                                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Relational:** PostgreSQL, MySQL, MSSQL, Oracle <br> **NoSQL:** MongoDB, Redis, Elasticsearch <br> **Data Warehousing:** ETL, Streaming, Neo4j <br> **SQL Concepts:** TSQL, PL/SQL                                                                       | **Version Control:** Git, GitHub <br> **Project Management:** Jira, Confluence <br> **Data Viz:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> **Reporting:** Matplotlib, Seaborn, Excel |
+
+| **Additional Skills**                                                                                                                                                                                               |                                                                                                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **System Design & Architecture** <br> **Root Cause Analysis** <br> **SaaS / PaaS** <br> **Backend Engineering** <br> **SSL / TLS / OAuth** <br> **Critical Thinking & Problem-Solving** <br> **Geopolitics & Economics** | *(Add more if needed, or leave empty)*                                                                                                                                                                             |
+
 
 Explore more of my work in my [repositories](https://github.com/suhaskm-neu).
 
