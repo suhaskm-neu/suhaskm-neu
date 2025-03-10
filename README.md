@@ -16,38 +16,153 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 - 📚 **Global Perspective:** Exploring geopolitics & economics to broaden tech impact.
 - 🤝 **Collaboration:** Engaging in projects that push tech limits & yield societal benefits.
 
-## 🛠️ Skills
+# Technical Skills
 
-### Programming Languages
-### Programming & Software Development
-- **Languages:** 
-  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 1. Programming & Software Development
 
-- **General Purpose:** Java, Python, C, R Programming
-- **Scripting & Markup:** Bash, Shell, JSON, XML
-- **Statistical & Data Analysis:** R, Python Libraries (Numpy, Pandas, Matplotlib, seaborn)
+### Languages
+- **Python**  
+- **Java**  
+- **C**  
+- **C++**  
+- **JavaScript**  
+- **TypeScript**  
+- **R**  
+- **Go**  
+- **Shell / Bash**  
 
-### Frameworks & Libraries
-- **Web Development:** Spring Boot, Django, Flask, FastAPI, MVC Architecture, Microservice Architecture 
-- **Data Science & Machine Learning:** TensorFlow, PyTorch, Keras, scikit-learn
-- **Natural Language Processing:** NLTK, GENSIM, spaCy
+### Concepts
+- **Object-Oriented Programming (OOP)**  
+- **Data Structures & Algorithms**  
+- **Unix / Linux Fundamentals**  
 
-### Cloud Computing & DevOps
-- **Cloud Services:** AWS (EC2, S3, RDS, Serverless, IAM, Security Groups), Azure, Google Cloud Platform
-- **DevOps Tools:** Docker, Jenkins, Kubernetes, CI/CD pipelines
+### Mathematics & Statistics
+- **Linear Algebra**  
+- **Probability**  
+- **Statistics**  
+- **Optimization**  
 
-### Databases
-- **Relational Databases:** PostgreSQL, MySQL, MSSQL, Oracle
-- **NoSQL Databases:** MongoDB, NoSQL
+---
 
-### Tools & Platforms
-- **Project Management & Collaboration:** Jira, Confluence, Agile, Scrum
-- **Version Control & CI/CD:** Git, GitHub Actions
-- **Data Visualization & BI:** Tableau, Microsoft Excel
-- **Miscellaneous:** SSL, TLS, OAuth, Apache Servers, PowerShell
+## 2. Frameworks & Libraries
+
+### Web Development
+- **Spring / Spring Boot** (MVC, Microservices)  
+- **React**  
+- **Django**  
+- **Flask**  
+- **FastAPI**  
+- **Maven / Hibernate / DAO**  
+- **RESTful APIs / Web Services**  
+
+### Data Science & Machine Learning
+- **TensorFlow**  
+- **PyTorch**  
+- **Keras**  
+- **scikit-learn**  
+- **Reinforcement Learning**  
+- **Transformers (BERT, GPT, LLMs)**  
+- **Generative AI**  
+- **Hugging Face**  
+- **Model Deployment & MLOps**  
+- **Feature Engineering & Hyperparameter Tuning**  
+- **Explainable AI & Computer Vision**  
+- **Transfer Learning (RNN, CNN)**  
+- **RAG (Retrieval-Augmented Generation)**  
+- **ViMs** (if relevant from screenshots)
+
+### Natural Language Processing (NLP)
+- **NLTK**  
+- **GENSIM**  
+- **spaCy**  
+- **Text Analytics & NLP Pipelines**  
+
+### Big Data
+- **Apache Spark**  
+- **Apache Kafka**  
+- **Data Lakes & Warehousing**  
+- **ETL Pipelines & Streaming Data**  
+- **Neo4j**  
+- **Cassandra**  
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**  
+- **Grafana & Prometheus** (for time series / monitoring)
+
+---
+
+## 3. Cloud Computing & DevOps
+
+### Cloud Services
+- **AWS** (EC2, S3, RDS, Lambda, SageMaker, IAM, Security Groups)  
+- **Azure** (Azure ML)  
+- **Google Cloud Platform (GCP)**  
+- **Oracle Cloud**  
+- **Serverless Architectures**  
+
+### DevOps Tools & Practices
+- **Docker**  
+- **Kubernetes**  
+- **Jenkins**  
+- **GitHub Actions**  
+- **CI/CD Pipelines**  
+- **Terraform / IaC**  
+- **Distributed Computing**  
+- **Code Reviews**  
+- **System Design & Microservices**  
+- **SDLC / Agile / Scrum**  
+- **Design Patterns**  
+- **Root Cause Analysis**  
+- **Open Source & Enterprise Software**  
+- **SaaS / PaaS**  
+- **Backend Engineering**  
+
+---
+
+## 4. Databases
+
+### Relational
+- **PostgreSQL**  
+- **MySQL**  
+- **MSSQL**  
+- **Oracle Database**  
+- **TSQL**  
+
+### NoSQL & Search
+- **MongoDB**  
+- **Redis**  
+- **Elasticsearch**  
+- **Cassandra** (also listed under Big Data)  
+- **Generic NoSQL**  
+
+---
+
+## 5. Tools & Platforms
+
+- **Version Control**: Git, GitHub  
+- **Project Management & Collaboration**: Jira, Confluence  
+- **PowerShell**  
+- **Apache Servers**  
+- **SSL / TLS / OAuth**  
+- **Microsoft Excel**  
+
+---
+
+## 6. Data Visualization & BI
+
+- **Tableau**  
+- **Power BI**  
+- **Matplotlib**  
+- **Seaborn**  
+- **Data Storytelling & Presentation**  
+
+---
+
+## 7. Additional Skills & Soft Skills
+
+- **Agile / Scrum** (also listed under DevOps)  
+- **System Design** (also under DevOps)  
+- **Communication & Presentation Skills**  
+- **Critical Thinking & Problem-Solving**  
+- **Geopolitics & Economics** (if you’d like to emphasize broader interests)
 
 Explore more of my work in my [repositories](https://github.com/suhaskm-neu).
 
