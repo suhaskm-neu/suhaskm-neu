@@ -70,21 +70,7 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 - **Data Visualization & BI:** Tableau, Microsoft Excel
 - **Miscellaneous:** SSL, TLS, OAuth, Apache Servers, PowerShell
 
-## Projects Spotlight
-
-- ### [Smart Data Analyzer](https://github.com/suhaskm/smart-data-analyzer)
-  ![Smart Data Analyzer](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)  
-  A tool leveraging machine learning to extract insights from complex datasets.
-
-- ### [Cloud Cost Optimizer](https://github.com/suhaskm/cloud-cost-optimizer)
-  ![Cloud Optimizer](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
-  Analyze and optimize your cloud resource usage with smart cost tracking.
-
-- ### [Real-Time Chat App](https://github.com/suhaskm/real-time-chat)
-  ![Chat App](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
-  A dynamic, web-based chat application built with Node.js and WebSockets.
-
-Explore more of my work in my [repositories](https://github.com/suhaskm).
+Explore more of my work in my [repositories](https://github.com/suhaskm-neu).
 
 ---
 
