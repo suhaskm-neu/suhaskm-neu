@@ -1,13 +1,3 @@
-## Let's Connect
-
-I’m always excited to collaborate or discuss innovative ideas.
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
-
-
 # Hello, I'm Suhas 👋
 ---------------
 ## 🎓 Graduate student at Northeastern University, Information Systems
@@ -18,13 +8,24 @@ My work spans across Machine learning, Deep Learning, Data Science, and Software
 
 ## 🌐 About Me
 
+<small>
+- 🧠 **Data & AI:** MS in Information Systems • ML, GenAI, Analytics
+- 💻 **Dev & Cloud:** Robust backend & scalable design • SQL & NoSQL
+- 🌟 **AI Research:** Intelligent systems • Predictive modeling
+- 📊 **Business Intelligence:** Data-driven insights • Tableau
+- 🎓 **Cloud Certifications:** AWS Cloud Practitioner • Solutions Architect in progress
+- 📚 **Global Perspective:** Geopolitics & Economics
+- 🤝 **Collaboration:** Innovative, impactful projects
+</small>
+
+## 🌐 About Me
+
 - 🧠 Pursuing a Master's in Information Systems, I specialize in leveraging data science and AI to solve complex problems. Skilled in machine learning, GenAI, and statistical analysis, I thrive on transforming data into actionable insights.
 - 💻 Experienced in software development, cloud computing, and backend applications, I love designing robust, scalable solutions. Proficient in both SQL and NoSQL databases, I ensure efficient data management across platforms.
 - 🌟 My research interests focus on applying cutting-edge AI technologies to real-world applications, evidenced by projects in intelligent systems and predictive modeling.
 - 📊 Adept at business intelligence, I use tools like Tableau to guide data-driven decisions, effectively managing stakeholder expectations and aligning technical projects with business goals.
 - 🎓 Currently studying for my AWS Cloud certifications, such as Cloud Practitioner and Solutions Architect.
 - 📚 Beyond tech, I'm intrigued by geopolitics and economics, enriching my understanding of technology's global impact.
-
 - 🤝 Eager for collaborative projects that challenge technological limits and make meaningful societal contributions.
 
 ## 🛠️ Skills
@@ -113,6 +114,14 @@ Explore more of my work in my [repositories](https://github.com/suhaskm).
 - INFO 7390 - **Advances in Data Science**
 
 ---------------
+
+## Let's Connect
+
+I’m always excited to collaborate or discuss innovative ideas.
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
 # 💡 Always learning, always growing!
 
