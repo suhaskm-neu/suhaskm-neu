@@ -2,7 +2,7 @@
 
 ## 🎓 Graduate student at Northeastern University, Information Systems
 
-My work spans across Machine learning, Deep Learning, Data Science, and Software Development adhering to Object-Oriented Design. I'm focus on depth in every project and design diving deep into System Design, Cloud Computing, Networking, Data Structures & Algorithms and Containerization.
+My work spans across Data Science domains in Classical ML, Deep Learning, MLOps and Software Development adhering to Object-Oriented Design. I focus on depth of knowledge and engineering in every project and design diving into System Design, Cloud Computing, Networking, Data Structures & Algorithms and Containerization.
 
 ## 🌐 About Me
 
