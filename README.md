@@ -14,28 +14,6 @@ My work spans across Data Science domains in Classical ML, Deep Learning, MLOps 
 - 📚 **Global Perspective:** Exploring geopolitics & economics to broaden tech impact.
 - 🤝 **Collaboration:** Engaging in projects that push tech limits & yield societal benefits.
 
-## GitHub Stats
-
-<div align="center">
-  <!-- Create a table for side-by-side stats cards -->
-  <table>
-    <tr>
-      <td>
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=suhaskm&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <!-- GitHub Streak Stats Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaskm&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <!-- Top Languages Card (Optional) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaskm&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
 <h1>Technical Skills</h1>
 
 <table style="width: 100%; table-layout: fixed;">
